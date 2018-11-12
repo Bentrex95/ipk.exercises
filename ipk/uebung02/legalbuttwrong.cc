@@ -1,0 +1,9 @@
+archiv.tar.xz
+exampleprogram.tar.xz
+legalbuttwrong
+legalbuttwrong.cc
+newdir
+quadrat
+uebung02.pdf
+wrong
+wrong.cc
